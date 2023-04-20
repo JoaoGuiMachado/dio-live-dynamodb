@@ -20,15 +20,116 @@
                 }
             }
         },
+        
         {
-            "PutRequest": {
-                "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
-                }
-            }
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "Fear of the Dark"},
+                "AlbumTitle": {"S": "Fear of the Dark Tour"},
+                "SongYear": {"S": "1992"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Avenged Sevenfold"},
+                "SongTitle": {"S": "Blinded in Chains"},
+                "AlbumTitle": {"S": "City of Evil"},
+                "SongYear": {"S": "2005"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Bullet for My Valentine"},
+                "SongTitle": {"S": "Hand of Blood"},
+                "AlbumTitle": {"S": "Bullet for My Valentine"},
+                "SongYear": {"S": "2005"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Disturbed"},
+                "SongTitle": {"S": "Decadence"},
+                "AlbumTitle": {"S": "Ten Thousand Fists"},
+                "SongYear": {"S": "2005"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Brick + Mortar"},
+                "SongTitle": {"S": "Bangs"},
+                "AlbumTitle": {"S": "Bangs"},
+                "SongYear": {"S": "2013"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Sofi Tukker"},
+                "SongTitle": {"S": "Swing"},
+                "AlbumTitle": {"S": "Swing"},
+                "SongYear": {"S": "2019"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Snoop Dogg, The oors"},
+                "SongTitle": {"S": "Riders On The Storm (Fredwreck Remix)"},
+                "AlbumTitle": {"S": "Riders On The Storm (Fredwreck Remix)"},
+                "SongYear": {"S": "1971"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Hadouken"},
+                "SongTitle": {"S": "BombShock"},
+                "AlbumTitle": {"S": "For the Masses"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Lazee"},
+                "SongTitle": {"S": "Stronger"},
+                "AlbumTitle": {"S": "Suppose To Happen"},
+                "SongYear": {"S": "2011"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Klaxons"},
+                "SongTitle": {"S": "Twin Flames"},
+                "AlbumTitle": {"S": "Surfing the Void"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Ram Jam"},
+                "SongTitle": {"S": "Black Betty"},
+                "AlbumTitle": {"S": "Ram Jam"},
+                "SongYear": {"S": "1977"}
+              }
+          }
         }
       ]
 }
